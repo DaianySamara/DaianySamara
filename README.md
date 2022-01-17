@@ -1,8 +1,8 @@
-- 👋 Hi, I'm @DaianySamara
-- 👀 I'm interested in Front-end
-- 🌱 I am currently learning: HTML5, CSS3, MySQL and WORDPRESS
-- 📫 How to reach me: dai.samara.ds@gmail.com
-- <img src="https://img.icons8.com/plumpy/24/000000/female.png"/>Pronouns: she/her
+- 👋 Oiii! Eu sou a <b>@DaianySamara</b>.
+- 👀 Eu estou interessado em <b> Front-end</b>
+- 🌱 Atualmente estou aprendendo: <b> HTML5, CSS3, MySQL and WORDPRESS </b>
+- 📫 Como chegar até mim:<b> dai.samara.ds@gmail.com</b>
+- <img src="https://img.icons8.com/plumpy/24/000000/female.png"/>Pronouns:<b> she/her</b>
 
 
 <!---
